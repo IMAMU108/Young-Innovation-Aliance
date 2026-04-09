@@ -25,7 +25,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2 font-bold text-xl hover:text-blue-100 transition">
             <span className="text-2xl">🚀</span>
-            <span>YIA</span>
+            <span>Young Innovators Alliance</span>
           </Link>
 
           {/* Desktop Navigation */}
